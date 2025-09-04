@@ -1,9 +1,9 @@
 # Born to Meme 
 
-**TOP TEXT:**  
+ 
 > "Why make serious projects…  
 
-**BOTTOM TEXT:**  
+
 > …when you can make MEMES instead?"  
 
 ---
